@@ -45,7 +45,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> NP Org Login Form </h1> </center>   
+    <center> <h1> NP Organisation Login Form </h1> </center>   
     <form>  
         <div class="container">   
             <label>Username : </label>   
